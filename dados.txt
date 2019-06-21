@@ -1,0 +1,838 @@
+Moment: 1559696015881 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 12 Peer MAC: 30:4b:07:ca:c7:6e SEQ: 90 EID: 0 SSID: 
+Count: 22 
+Moment: 1559696015901 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 12 Peer MAC: 30:4b:07:ca:c7:6e SEQ: 90 EID: 0 SSID: 
+Count: 23 
+Moment: 1559696015920 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -95 Ch: 12 Peer MAC: 30:4b:07:ca:c7:6e SEQ: 90 EID: 0 SSID: 
+Count: 24 
+Moment: 1559696018438 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 1 Peer MAC: c4:85:08:63:16:54 SEQ: 212 EID: 0 SSID: SUPERNET_karla_5G 
+Count: 25 
+Moment: 1559696023967 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -98 Ch: 7 Peer MAC: 88:79:7e:b2:cf:83 SEQ: 170 EID: 0 SSID: calisto 
+Count: 26 
+Moment: 1559696024789 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -90 Ch: 8 Peer MAC: 9c:5c:f9:2a:15:11 SEQ: 74 EID: 0 SSID: 
+Count: 27 
+Moment: 1559696024815 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -87 Ch: 8 Peer MAC: 9c:5c:f9:2a:15:11 SEQ: 74 EID: 0 SSID: 
+Count: 28 
+Moment: 1559696026225 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 9 Peer MAC: 5c:c9:d3:38:c7:11 SEQ: 95 EID: 0 SSID: 
+Count: 29 
+Moment: 1559696033491 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -40 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 35 EID: 0 SSID: 
+Count: 30 
+Moment: 1559696033515 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 35 EID: 0 SSID: 
+Count: 31 
+Moment: 1559696033541 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 35 EID: 0 SSID: 
+Count: 32 
+Moment: 1559696033557 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -32 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 35 EID: 0 SSID: 
+Count: 33 
+Moment: 1559696033585 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -30 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 36 EID: 0 SSID: 
+Count: 34 
+Moment: 1559696033606 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 36 EID: 0 SSID: 
+Count: 35 
+Moment: 1559696033628 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -27 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 36 EID: 0 SSID: 
+Count: 36 
+Moment: 1559696033648 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 36 EID: 0 SSID: 
+Count: 37 
+Moment: 1559696033666 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 36 EID: 0 SSID: 
+Count: 38 
+Moment: 1559696033693 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -27 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 36 EID: 0 SSID: 
+Count: 39 
+Moment: 1559696033713 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -22 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 36 EID: 0 SSID: 
+Count: 40 
+Moment: 1559696033737 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -27 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 36 EID: 0 SSID: 
+Count: 41 
+Moment: 1559696033757 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -90 Ch: 3 Peer MAC: 54:bd:79:58:e8:77 SEQ: 0 EID: 0 SSID: 
+Count: 42 
+Moment: 1559696039635 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 9 Peer MAC: da:a1:19:7b:55:df SEQ: 249 EID: 0 SSID: 
+Count: 43 
+Moment: 1559696039655 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -90 Ch: 9 Peer MAC: da:a1:19:7b:55:df SEQ: 249 EID: 0 SSID: 
+Count: 44 
+Moment: 1559696039674 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -90 Ch: 9 Peer MAC: da:a1:19:7b:55:df SEQ: 249 EID: 0 SSID: 
+Count: 45 
+Moment: 1559696039703 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 10 Peer MAC: da:a1:19:7b:55:df SEQ: 249 EID: 0 SSID: 
+Count: 46 
+Moment: 1559696042708 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 13 Peer MAC: 94:39:e5:f2:04:21 SEQ: 118 EID: 0 SSID: SUPERNET_EAC 
+Count: 47 
+Moment: 1559696054588 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -88 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 39 EID: 0 SSID: 
+Count: 48 
+Moment: 1559696054608 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -65 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 39 EID: 0 SSID: 
+Count: 49 
+Moment: 1559696054625 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -71 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 39 EID: 0 SSID: 
+Count: 50 
+Moment: 1559696054639 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -66 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 39 EID: 0 SSID: 
+Count: 51 
+Moment: 1559696054655 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 52 
+Moment: 1559696054675 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -26 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 53 
+Moment: 1559696054694 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 54 
+Moment: 1559696054755 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -23 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 55 
+Moment: 1559696054775 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 56 
+Moment: 1559696054791 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 57 
+Moment: 1559696054816 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 58 
+Moment: 1559696054836 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 59 
+Moment: 1559696054853 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 60 
+Moment: 1559696054872 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -26 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 61 
+Moment: 1559696054891 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 62 
+Moment: 1559696054909 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -38 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 40 EID: 0 SSID: 
+Count: 63 
+Moment: 1559696054926 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -37 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 41 EID: 0 SSID: 
+Count: 64 
+Moment: 1559696056739 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 138 EID: 0 SSID: 
+Count: 65 
+Moment: 1559696070458 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -61 Ch: 1 Peer MAC: 74:29:af:a3:37:8f SEQ: 207 EID: 0 SSID: 
+Count: 66 
+Moment: 1559696070482 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -60 Ch: 1 Peer MAC: 74:29:af:a3:37:8f SEQ: 207 EID: 0 SSID: 
+Count: 67 
+Moment: 1559696080189 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -96 Ch: 11 Peer MAC: 70:8b:cd:41:56:43 SEQ: 75 EID: 0 SSID: 
+Count: 68 
+Moment: 1559696082542 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 165 EID: 0 SSID: 
+Count: 69 
+Moment: 1559696082565 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -87 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 165 EID: 0 SSID: 
+Count: 70 
+Moment: 1559696094624 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -88 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 42 EID: 0 SSID: 
+Count: 71 
+Moment: 1559696094638 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -65 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 42 EID: 0 SSID: 
+Count: 72 
+Moment: 1559696094655 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -70 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 42 EID: 0 SSID: 
+Count: 73 
+Moment: 1559696094670 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -68 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 42 EID: 0 SSID: 
+Count: 74 
+Moment: 1559696094689 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 43 EID: 0 SSID: 
+Count: 75 
+Moment: 1559696094702 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 43 EID: 0 SSID: 
+Count: 76 
+Moment: 1559696094728 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 43 EID: 0 SSID: 
+Count: 77 
+Moment: 1559696094750 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -27 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 43 EID: 0 SSID: 
+Count: 78 
+Moment: 1559696094772 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -26 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 43 EID: 0 SSID: 
+Count: 79 
+Moment: 1559696094793 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 43 EID: 0 SSID: 
+Count: 80 
+Moment: 1559696094811 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 43 EID: 0 SSID: 
+Count: 81 
+Moment: 1559696094829 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 43 EID: 0 SSID: 
+Count: 82 
+Moment: 1559696094853 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -26 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 43 EID: 0 SSID: 
+Count: 83 
+Moment: 1559696094872 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 43 EID: 0 SSID: 
+Count: 84 
+Moment: 1559696095443 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -89 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 178 EID: 0 SSID: 
+Count: 85 
+Moment: 1559696095462 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -89 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 178 EID: 0 SSID: 
+Count: 86 
+Moment: 1559696105786 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 11 Peer MAC: 94:39:e5:f2:04:21 SEQ: 121 EID: 0 SSID: SUPERNET_EAC 
+Count: 87 
+Moment: 1559696105801 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 11 Peer MAC: 94:39:e5:f2:04:21 SEQ: 121 EID: 0 SSID: SUPERNET_EAC 
+Count: 88 
+Moment: 1559696108346 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -89 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 191 EID: 0 SSID: 
+Count: 89 
+Moment: 1559696108369 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 191 EID: 0 SSID: 
+Count: 90 
+Moment: 1559696115295 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -80 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 43 EID: 0 SSID: 
+Count: 91 
+Moment: 1559696115666 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -79 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 44 EID: 0 SSID: 
+Count: 92 
+Moment: 1559696115681 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -79 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 44 EID: 0 SSID: 
+Count: 93 
+Moment: 1559696115701 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -77 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 44 EID: 0 SSID: 
+Count: 94 
+Moment: 1559696115719 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -74 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 44 EID: 0 SSID: 
+Count: 95 
+Moment: 1559696115740 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -29 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 45 EID: 0 SSID: 
+Count: 96 
+Moment: 1559696115757 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -29 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 45 EID: 0 SSID: 
+Count: 97 
+Moment: 1559696115781 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 45 EID: 0 SSID: 
+Count: 98 
+Moment: 1559696115796 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 45 EID: 0 SSID: 
+Count: 99 
+Moment: 1559696115809 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -26 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 45 EID: 0 SSID: 
+Count: 100 
+Moment: 1559696115825 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 45 EID: 0 SSID: 
+Count: 101 
+Moment: 1559696115844 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 45 EID: 0 SSID: 
+Count: 102 
+Moment: 1559696115859 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 45 EID: 0 SSID: 
+Count: 103 
+Moment: 1559696115881 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 45 EID: 0 SSID: 
+Count: 104 
+Moment: 1559696115898 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -26 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 46 EID: 0 SSID: 
+Count: 105 
+Moment: 1559696115914 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -33 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 46 EID: 0 SSID: 
+Count: 106 
+Moment: 1559696115931 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -33 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 46 EID: 0 SSID: 
+Count: 107 
+Moment: 1559696115948 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -70 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 46 EID: 0 SSID: 
+Count: 108 
+Moment: 1559696115964 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -70 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 46 EID: 0 SSID: 
+Count: 109 
+Moment: 1559696115986 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -68 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 46 EID: 0 SSID: 
+Count: 110 
+Moment: 1559696116002 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -67 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 46 EID: 0 SSID: 
+Count: 111 
+Moment: 1559696118985 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -70 Ch: 11 Peer MAC: 74:29:af:a3:37:8f SEQ: 209 EID: 0 SSID: 
+Count: 112 
+Moment: 1559696119400 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 11 Peer MAC: c4:85:08:63:16:54 SEQ: 228 EID: 0 SSID: SUPERNET_karla_5G 
+Count: 113 
+Moment: 1559696121351 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 204 EID: 0 SSID: 
+Count: 114 
+Moment: 1559696121368 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -89 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 204 EID: 0 SSID: 
+Count: 115 
+Moment: 1559696134179 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 217 EID: 0 SSID: 
+Count: 116 
+Moment: 1559696137837 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 4 Peer MAC: 50:92:b9:e2:8b:3a SEQ: 168 EID: 0 SSID: 
+Count: 117 
+Moment: 1559696137852 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -97 Ch: 4 Peer MAC: 50:92:b9:e2:8b:3a SEQ: 168 EID: 0 SSID: 
+Count: 118 
+Moment: 1559696140195 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 6 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 222 EID: 0 SSID: 
+Count: 119 
+Moment: 1559696147155 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 230 EID: 0 SSID: 
+Count: 120 
+Moment: 1559696147172 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 230 EID: 0 SSID: 
+Count: 121 
+Moment: 1559696148151 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -89 Ch: 1 Peer MAC: fc:64:3a:e4:30:80 SEQ: 244 EID: 0 SSID: 
+Count: 122 
+Moment: 1559696155757 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -77 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 47 EID: 0 SSID: 
+Count: 123 
+Moment: 1559696155771 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -73 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 48 EID: 0 SSID: 
+Count: 124 
+Moment: 1559696155790 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -26 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 48 EID: 0 SSID: 
+Count: 125 
+Moment: 1559696155813 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -27 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 48 EID: 0 SSID: 
+Count: 126 
+Moment: 1559696155833 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -26 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 48 EID: 0 SSID: 
+Count: 127 
+Moment: 1559696155849 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 48 EID: 0 SSID: 
+Count: 128 
+Moment: 1559696155868 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 48 EID: 0 SSID: 
+Count: 129 
+Moment: 1559696155886 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 48 EID: 0 SSID: 
+Count: 130 
+Moment: 1559696155902 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -26 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 49 EID: 0 SSID: 
+Count: 131 
+Moment: 1559696155920 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 49 EID: 0 SSID: 
+Count: 132 
+Moment: 1559696155939 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 49 EID: 0 SSID: 
+Count: 133 
+Moment: 1559696155956 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -26 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 49 EID: 0 SSID: 
+Count: 134 
+Moment: 1559696155973 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 49 EID: 0 SSID: 
+Count: 135 
+Moment: 1559696155991 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -77 Ch: 9 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 50 EID: 0 SSID: 
+Count: 136 
+Moment: 1559696160084 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -95 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 242 EID: 0 SSID: 
+Count: 137 
+Moment: 1559696160121 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 242 EID: 0 SSID: 
+Count: 138 
+Moment: 1559696161287 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -87 Ch: 1 Peer MAC: fc:64:3a:fd:16:24 SEQ: 110 EID: 0 SSID: 
+Count: 139 
+Moment: 1559696161413 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -86 Ch: 1 Peer MAC: fc:64:3a:fd:16:24 SEQ: 110 EID: 0 SSID: 
+Count: 140 
+Moment: 1559696170404 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 10 Peer MAC: f0:d7:aa:ec:61:e7 SEQ: 174 EID: 0 SSID: 
+Count: 141 
+Moment: 1559696170420 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 10 Peer MAC: f0:d7:aa:ec:61:e7 SEQ: 174 EID: 0 SSID: 
+Count: 142 
+Moment: 1559696170437 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 10 Peer MAC: f0:d7:aa:ec:61:e7 SEQ: 174 EID: 0 SSID: 
+Count: 143 
+Moment: 1559696172961 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 255 EID: 0 SSID: 
+Count: 144 
+Moment: 1559696172977 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 255 EID: 0 SSID: 
+Count: 145 
+Moment: 1559696176781 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -41 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 50 EID: 0 SSID: 
+Count: 146 
+Moment: 1559696177397 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 50 EID: 0 SSID: 
+Count: 147 
+Moment: 1559696177911 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 50 EID: 0 SSID: 
+Count: 148 
+Moment: 1559696179924 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 50 EID: 0 SSID: 
+Count: 149 
+Moment: 1559696179944 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -32 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 50 EID: 0 SSID: 
+Count: 150 
+Moment: 1559696179963 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -30 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 50 EID: 0 SSID: 
+Count: 151 
+Moment: 1559696179978 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 50 EID: 0 SSID: 
+Count: 152 
+Moment: 1559696180002 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 51 EID: 0 SSID: 
+Count: 153 
+RSSI: -29 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 51 EID: 0 SSID: 
+Count: 154 
+Moment: 1559696180025 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 51 EID: 0 SSID: 
+Count: 155 
+RSSI: -26 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 51 EID: 0 SSID: 
+Count: 156 
+Moment: 1559696180052 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 51 EID: 0 SSID: 
+Count: 157 
+Moment: 1559696180082 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -36 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 51 EID: 0 SSID: 
+Count: 158 
+Moment: 1559696182104 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -85 Ch: 9 Peer MAC: fc:64:3a:fd:16:24 SEQ: 114 EID: 0 SSID: 
+Count: 159 
+Moment: 1559696182491 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -84 Ch: 9 Peer MAC: 84:c7:ea:e2:90:1c SEQ: 210 EID: 0 SSID: 
+Count: 160 
+RSSI: -85 Ch: 9 Peer MAC: 84:c7:ea:e2:90:1c SEQ: 210 EID: 0 SSID: 
+Count: 161 
+Moment: 1559696182561 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -81 Ch: 9 Peer MAC: 84:c7:ea:e2:90:1c SEQ: 210 EID: 0 SSID: 
+Count: 162 
+Moment: 1559696182693 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -82 Ch: 10 Peer MAC: 84:c7:ea:e2:90:1c SEQ: 211 EID: 0 SSID: 
+Count: 163 
+RSSI: -81 Ch: 10 Peer MAC: 84:c7:ea:e2:90:1c SEQ: 211 EID: 0 SSID: 
+Count: 164 
+Moment: 1559696183204 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -95 Ch: 10 Peer MAC: c4:85:08:63:16:54 SEQ: 236 EID: 0 SSID: SUPERNET_karla_5G 
+Count: 165 
+Moment: 1559696185966 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 13 EID: 0 SSID: 
+Count: 166 
+Moment: 1559696196722 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -65 Ch: 10 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 54 EID: 0 SSID: 
+Count: 167 
+Moment: 1559696196746 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -84 Ch: 10 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 54 EID: 0 SSID: 
+Count: 168 
+Moment: 1559696196773 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 10 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 169 
+Moment: 1559696196814 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 10 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 170 
+Moment: 1559696196840 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 10 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 171 
+Moment: 1559696196866 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 10 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 172 
+Moment: 1559696196897 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -23 Ch: 10 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 173 
+Moment: 1559696196953 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 10 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 174 
+Moment: 1559696197033 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 10 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 175 
+Moment: 1559696197114 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 10 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 176 
+Moment: 1559696197204 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -30 Ch: 10 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 177 
+Moment: 1559696197289 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -30 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 178 
+Moment: 1559696197357 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -38 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 179 
+Moment: 1559696197447 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -38 Ch: 11 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 55 EID: 0 SSID: 
+Count: 180 
+Moment: 1559696198867 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 26 EID: 0 SSID: 
+Count: 181 
+Moment: 1559696203070 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -84 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 71 EID: 0 SSID: 
+Count: 182 
+Moment: 1559696203090 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -49 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 72 EID: 0 SSID: huehue 
+Count: 183 
+Moment: 1559696203178 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -37 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 72 EID: 0 SSID: huehue 
+Count: 184 
+RSSI: -37 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 72 EID: 0 SSID: 
+Count: 185 
+RSSI: -38 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 72 EID: 0 SSID: huehue 
+Count: 186 
+RSSI: -37 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 72 EID: 0 SSID: 
+Count: 187 
+RSSI: -38 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 72 EID: 0 SSID: huehue 
+Count: 188 
+RSSI: -39 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 72 EID: 0 SSID: 
+Count: 189 
+RSSI: -38 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 72 EID: 0 SSID: huehue 
+Count: 190 
+RSSI: -37 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 72 EID: 0 SSID: 
+Count: 191 
+RSSI: -35 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 72 EID: 0 SSID: huehue 
+Count: 192 
+RSSI: -37 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: 
+Count: 193 
+RSSI: -36 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: huehue 
+Count: 194 
+RSSI: -36 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: 
+Count: 195 
+RSSI: -36 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: huehue 
+Count: 196 
+RSSI: -36 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: 
+Count: 197 
+RSSI: -38 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: huehue 
+Count: 198 
+RSSI: -37 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: 
+Count: 199 
+RSSI: -38 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: huehue 
+Count: 200 
+RSSI: -38 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: 
+Count: 201 
+RSSI: -37 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: huehue 
+Count: 202 
+RSSI: -37 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: 
+Count: 203 
+RSSI: -48 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: huehue 
+Count: 204 
+RSSI: -87 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 73 EID: 0 SSID: huehue 
+Count: 205 
+Moment: 1559696203272 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -80 Ch: 4 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 74 EID: 0 SSID: huehue 
+Count: 206 
+Moment: 1559696205013 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -90 Ch: 6 Peer MAC: fc:64:3a:fd:16:24 SEQ: 118 EID: 0 SSID: 
+Count: 207 
+Moment: 1559696211770 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 13 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 39 EID: 0 SSID: 
+Count: 208 
+Moment: 1559696224571 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 12 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 52 EID: 0 SSID: 
+Count: 209 
+Moment: 1559696224587 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 12 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 52 EID: 0 SSID: 
+Count: 210 
+Moment: 1559696230614 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 5 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 57 EID: 0 SSID: 
+Count: 211 
+Moment: 1559696232559 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 7 Peer MAC: 38:80:df:00:5c:74 SEQ: 214 EID: 0 SSID: 
+Count: 212 
+Moment: 1559696236961 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -74 Ch: 12 Peer MAC: 26:29:af:a3:37:8f SEQ: 116 EID: 0 SSID: 
+Count: 213 
+Moment: 1559696236981 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -71 Ch: 12 Peer MAC: 26:29:af:a3:37:8f SEQ: 116 EID: 0 SSID: 
+Count: 214 
+Moment: 1559696237678 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -63 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 57 EID: 0 SSID: 
+Count: 215 
+Moment: 1559696237692 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -67 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 57 EID: 0 SSID: 
+Count: 216 
+Moment: 1559696237709 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -67 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 57 EID: 0 SSID: 
+Count: 217 
+Moment: 1559696237732 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 58 EID: 0 SSID: 
+Count: 218 
+Moment: 1559696237751 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 58 EID: 0 SSID: 
+Count: 219 
+Moment: 1559696237768 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -25 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 58 EID: 0 SSID: 
+Count: 220 
+Moment: 1559696237788 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -23 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 58 EID: 0 SSID: 
+Count: 221 
+Moment: 1559696237808 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -23 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 58 EID: 0 SSID: 
+Count: 222 
+Moment: 1559696237829 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 58 EID: 0 SSID: 
+Count: 223 
+Moment: 1559696237846 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -27 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 58 EID: 0 SSID: 
+Count: 224 
+Moment: 1559696237861 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 12 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 58 EID: 0 SSID: 
+Count: 225 
+Moment: 1559696250251 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 12 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 78 EID: 0 SSID: 
+Count: 226 
+Moment: 1559696251706 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 13 Peer MAC: c4:85:08:63:16:54 SEQ: 239 EID: 0 SSID: SUPERNET_karla_5G 
+Count: 227 
+Moment: 1559696252526 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 1 Peer MAC: 70:8b:cd:41:56:43 SEQ: 80 EID: 0 SSID: 
+Count: 228 
+Moment: 1559696252543 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -90 Ch: 1 Peer MAC: 70:8b:cd:41:56:43 SEQ: 80 EID: 0 SSID: 
+Count: 229 
+Moment: 1559696252564 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 1 Peer MAC: 70:8b:cd:41:56:43 SEQ: 80 EID: 0 SSID: 
+Count: 230 
+Moment: 1559696256522 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -90 Ch: 5 Peer MAC: f4:f5:24:9a:78:3e SEQ: 28 EID: 0 SSID: 
+Count: 231 
+Moment: 1559696256543 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 5 Peer MAC: f4:f5:24:9a:78:3e SEQ: 28 EID: 0 SSID: 
+Count: 232 
+Moment: 1559696256563 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 5 Peer MAC: f4:f5:24:9a:78:3e SEQ: 28 EID: 0 SSID: 
+Count: 233 
+Moment: 1559696263178 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 12 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 92 EID: 0 SSID: 
+Count: 234 
+Moment: 1559696263195 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 12 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 92 EID: 0 SSID: 
+Count: 235 
+Moment: 1559696265735 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 2 Peer MAC: fc:64:3a:fd:16:24 SEQ: 120 EID: 0 SSID: 
+Count: 236 
+Moment: 1559696265764 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -84 Ch: 2 Peer MAC: fc:64:3a:fd:16:24 SEQ: 120 EID: 0 SSID: 
+Count: 237 
+Moment: 1559696269114 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 5 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 97 EID: 0 SSID: 
+Count: 238 
+Moment: 1559696276078 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -97 Ch: 12 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 104 EID: 0 SSID: 
+Count: 239 
+Moment: 1559696277818 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -88 Ch: 13 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 60 EID: 0 SSID: 
+Count: 240 
+Moment: 1559696288981 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -96 Ch: 12 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 117 EID: 0 SSID: 
+Count: 241 
+Moment: 1559696295022 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -90 Ch: 5 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 122 EID: 0 SSID: 
+Count: 242 
+Moment: 1559696295041 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -88 Ch: 5 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 122 EID: 0 SSID: 
+Count: 243 
+Moment: 1559696298724 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -76 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 62 EID: 0 SSID: 
+Count: 244 
+Moment: 1559696298745 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -39 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 62 EID: 0 SSID: 
+Count: 245 
+Moment: 1559696298759 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -32 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 62 EID: 0 SSID: 
+Count: 246 
+Moment: 1559696298785 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -32 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 62 EID: 0 SSID: 
+Count: 247 
+Moment: 1559696298797 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 63 EID: 0 SSID: 
+Count: 248 
+Moment: 1559696298813 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 63 EID: 0 SSID: 
+Count: 249 
+Moment: 1559696298834 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -27 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 63 EID: 0 SSID: 
+Count: 250 
+Moment: 1559696298850 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 63 EID: 0 SSID: 
+Count: 251 
+Moment: 1559696298866 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 63 EID: 0 SSID: 
+Count: 252 
+Moment: 1559696298882 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 63 EID: 0 SSID: 
+Count: 253 
+Moment: 1559696298898 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -37 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 63 EID: 0 SSID: 
+Count: 254 
+Moment: 1559696298916 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -37 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 63 EID: 0 SSID: 
+Count: 255 
+Moment: 1559696298932 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -73 Ch: 8 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 63 EID: 0 SSID: 
+Count: 256 
+Moment: 1559696298947 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -73 Ch: 9 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 64 EID: 0 SSID: 
+Count: 257 
+Moment: 1559696298961 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -73 Ch: 9 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 64 EID: 0 SSID: 
+Count: 258 
+Moment: 1559696299203 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -90 Ch: 9 Peer MAC: 30:cb:f8:18:1b:25 SEQ: 139 EID: 0 SSID: WIFI_RJ 
+Count: 259 
+Moment: 1559696299491 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 9 Peer MAC: 30:cb:f8:18:1b:25 SEQ: 140 EID: 0 SSID: WIFI_RJ 
+Count: 260 
+Moment: 1559696301917 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 12 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 130 EID: 0 SSID: 
+Count: 261 
+Moment: 1559696308027 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 5 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 135 EID: 0 SSID: 
+Count: 262 
+Moment: 1559696312327 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -88 Ch: 9 Peer MAC: 38:80:df:00:5c:74 SEQ: 216 EID: 0 SSID: 
+Count: 263 
+Moment: 1559696312449 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -89 Ch: 9 Peer MAC: 38:80:df:00:5c:74 SEQ: 216 EID: 0 SSID: 
+Count: 264 
+Moment: 1559696314991 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -96 Ch: 12 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 142 EID: 0 SSID: 
+Count: 265 
+Moment: 1559696319393 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -87 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 64 EID: 0 SSID: 
+Count: 266 
+Moment: 1559696319406 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -40 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 64 EID: 0 SSID: 
+Count: 267 
+Moment: 1559696319421 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -38 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 64 EID: 0 SSID: 
+Count: 268 
+Moment: 1559696319439 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -37 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 64 EID: 0 SSID: 
+Count: 269 
+Moment: 1559696319458 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -35 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 64 EID: 0 SSID: 
+Count: 270 
+Moment: 1559696319474 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -32 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 64 EID: 0 SSID: 
+Count: 271 
+RSSI: -32 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 64 EID: 0 SSID: 
+Count: 272 
+RSSI: -32 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 64 EID: 0 SSID: 
+Count: 273 
+RSSI: -31 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 64 EID: 0 SSID: 
+Count: 274 
+RSSI: -33 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 65 EID: 0 SSID: 
+Count: 275 
+RSSI: -33 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 65 EID: 0 SSID: 
+Count: 276 
+RSSI: -32 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 65 EID: 0 SSID: 
+Count: 277 
+Moment: 1559696319490 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -42 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 65 EID: 0 SSID: 
+Count: 278 
+Moment: 1559696319508 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -58 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 65 EID: 0 SSID: 
+Count: 279 
+Moment: 1559696319522 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -74 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 65 EID: 0 SSID: 
+Count: 280 
+Moment: 1559696320929 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 5 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 148 EID: 0 SSID: 
+Count: 281 
+Moment: 1559696321441 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 5 Peer MAC: c4:85:08:63:16:54 SEQ: 243 EID: 0 SSID: SUPERNET_karla_5G 
+Count: 282 
+Moment: 1559696327790 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 12 Peer MAC: 38:9a:f6:6c:b9:6f SEQ: 156 EID: 0 SSID: 
+Count: 283 
+Moment: 1559696334551 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -89 Ch: 5 Peer MAC: f4:f5:24:9a:78:3e SEQ: 34 EID: 0 SSID: 
+Count: 284 
+Moment: 1559696334567 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 5 Peer MAC: f4:f5:24:9a:78:3e SEQ: 34 EID: 0 SSID: 
+Count: 285 
+Moment: 1559696334582 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -90 Ch: 5 Peer MAC: f4:f5:24:9a:78:3e SEQ: 34 EID: 0 SSID: 
+Count: 286 
+Moment: 1559696334960 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 6 Peer MAC: 74:40:bb:10:c8:63 SEQ: 53 EID: 0 SSID: 
+Count: 287 
+Moment: 1559696334975 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 6 Peer MAC: 74:40:bb:10:c8:63 SEQ: 54 EID: 0 SSID: 
+Count: 288 
+Moment: 1559696337314 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 8 Peer MAC: 74:40:bb:10:c8:63 SEQ: 56 EID: 0 SSID: 
+Count: 289 
+Moment: 1559696339567 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -82 Ch: 10 Peer MAC: 84:c7:ea:62:3b:90 SEQ: 175 EID: 0 SSID: 
+Count: 290 
+Moment: 1559696339595 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -81 Ch: 10 Peer MAC: 84:c7:ea:62:3b:90 SEQ: 175 EID: 0 SSID: 
+Count: 291 
+RSSI: -79 Ch: 10 Peer MAC: 84:c7:ea:62:3b:90 SEQ: 175 EID: 0 SSID: 
+Count: 292 
+Moment: 1559696339691 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -83 Ch: 11 Peer MAC: 84:c7:ea:62:3b:90 SEQ: 175 EID: 0 SSID: 
+Count: 293 
+Moment: 1559696339755 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -87 Ch: 11 Peer MAC: 84:c7:ea:62:3b:90 SEQ: 176 EID: 0 SSID: 
+Count: 294 
+Moment: 1559696351650 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 9 Peer MAC: 98:39:8e:f5:e6:d3 SEQ: 53 EID: 0 SSID: Marcelino_FiberNett 
+Count: 295 
+Moment: 1559696351781 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 10 Peer MAC: 98:39:8e:f5:e6:d3 SEQ: 53 EID: 0 SSID: Marcelino_FiberNett 
+Count: 296 
+Moment: 1559696351799 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 10 Peer MAC: 98:39:8e:f5:e6:d3 SEQ: 53 EID: 0 SSID: Marcelino_FiberNett 
+Count: 297 
+Moment: 1559696361787 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -81 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 67 EID: 0 SSID: 
+Count: 298 
+Moment: 1559696361799 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -41 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 299 
+Moment: 1559696361819 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 300 
+Moment: 1559696361833 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -32 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 301 
+Moment: 1559696361847 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -28 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 302 
+Moment: 1559696361859 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -30 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 303 
+Moment: 1559696361869 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -30 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 304 
+Moment: 1559696361884 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -30 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 305 
+Moment: 1559696361897 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -29 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 306 
+Moment: 1559696361912 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -29 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 307 
+Moment: 1559696361924 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -29 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 308 
+Moment: 1559696361940 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -30 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 309 
+Moment: 1559696361955 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -38 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 310 
+Moment: 1559696361974 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -38 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 68 EID: 0 SSID: 
+Count: 311 
+Moment: 1559696361992 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -76 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 69 EID: 0 SSID: 
+Count: 312 
+Moment: 1559696362008 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -79 Ch: 7 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 69 EID: 0 SSID: 
+Count: 313 
+Moment: 1559696365372 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 10 Peer MAC: 40:83:1d:64:d1:98 SEQ: 156 EID: 0 SSID: Pollyanna_FiberNett 
+Count: 314 
+Moment: 1559696367931 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -96 Ch: 13 Peer MAC: 2e:c9:d3:38:c7:11 SEQ: 165 EID: 0 SSID: 
+Count: 315 
+Moment: 1559696381956 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -38 Ch: 13 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 72 EID: 0 SSID: 
+Count: 316 
+Moment: 1559696382149 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -27 Ch: 13 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 72 EID: 0 SSID: 
+Count: 317 
+Moment: 1559696382352 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -27 Ch: 13 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 72 EID: 0 SSID: 
+Count: 318 
+Moment: 1559696391592 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 8 Peer MAC: 5c:c9:d3:38:c7:11 SEQ: 124 EID: 0 SSID: 
+Count: 319 
+Moment: 1559696393496 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 12 Peer MAC: 9c:5c:f9:2a:15:11 SEQ: 83 EID: 0 SSID: 
+Count: 320 
+Moment: 1559696393519 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -92 Ch: 12 Peer MAC: 9c:5c:f9:2a:15:11 SEQ: 83 EID: 0 SSID: 
+Count: 321 
+Moment: 1559696407560 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -93 Ch: 13 Peer MAC: c4:85:08:63:16:54 SEQ: 254 EID: 0 SSID: SUPERNET_karla_5G 
+Count: 322 
+Moment: 1559696420156 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -89 Ch: 13 Peer MAC: 38:80:df:00:5c:74 SEQ: 223 EID: 0 SSID: 
+Count: 323 
+Moment: 1559696420173 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -88 Ch: 13 Peer MAC: 38:80:df:00:5c:74 SEQ: 223 EID: 0 SSID: 
+Count: 324 
+Moment: 1559696422410 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 1 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 72 EID: 0 SSID: 
+Count: 325 
+Moment: 1559696422427 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 1 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 72 EID: 0 SSID: 
+Count: 326 
+Moment: 1559696422447 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -36 Ch: 1 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 72 EID: 0 SSID: 
+Count: 327 
+Moment: 1559696422828 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -33 Ch: 1 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 72 EID: 0 SSID: 
+Count: 328 
+Moment: 1559696423096 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -32 Ch: 1 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 72 EID: 0 SSID: 
+Count: 329 
+Moment: 1559696423115 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -34 Ch: 1 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 72 EID: 0 SSID: 
+Count: 330 
+Moment: 1559696423134 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -33 Ch: 1 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 73 EID: 0 SSID: 
+Count: 331 
+Moment: 1559696423155 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -33 Ch: 1 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 73 EID: 0 SSID: 
+Count: 332 
+Moment: 1559696423176 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -34 Ch: 1 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 73 EID: 0 SSID: 
+Count: 333 
+Moment: 1559696423511 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -38 Ch: 1 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 73 EID: 0 SSID: 
+Count: 334 
+Moment: 1559696423529 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -75 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 73 EID: 0 SSID: 
+Count: 335 
+Moment: 1559696423542 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 2 Peer MAC: fc:ee:e6:0e:90:77 SEQ: 101 EID: 0 SSID: 
+Count: 336 
+RSSI: -91 Ch: 2 Peer MAC: fc:ee:e6:0e:90:77 SEQ: 101 EID: 0 SSID: 
+Count: 337 
+Moment: 1559696440842 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -73 Ch: 8 Peer MAC: 74:29:af:a3:37:8f SEQ: 214 EID: 0 SSID: 
+Count: 338 
+Moment: 1559696460706 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -67 Ch: 2 Peer MAC: 74:29:af:a3:37:8f SEQ: 215 EID: 0 SSID: 
+Count: 339 
+Moment: 1559696460721 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -67 Ch: 2 Peer MAC: 74:29:af:a3:37:8f SEQ: 215 EID: 0 SSID: 
+Count: 340 
+Moment: 1559696460976 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -88 Ch: 2 Peer MAC: 5c:c9:d3:38:c7:11 SEQ: 126 EID: 0 SSID: 
+Count: 341 
+Moment: 1559696461838 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -38 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 75 EID: 0 SSID: 
+Count: 342 
+Moment: 1559696461856 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -40 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 75 EID: 0 SSID: 
+Count: 343 
+Moment: 1559696461869 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -41 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 75 EID: 0 SSID: 
+Count: 344 
+Moment: 1559696461889 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -41 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 75 EID: 0 SSID: 
+Count: 345 
+Moment: 1559696461906 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -41 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 75 EID: 0 SSID: 
+Count: 346 
+Moment: 1559696461924 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -36 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 75 EID: 0 SSID: 
+Count: 347 
+Moment: 1559696461976 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -37 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 75 EID: 0 SSID: 
+Count: 348 
+Moment: 1559696461989 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -37 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 75 EID: 0 SSID: 
+Count: 349 
+Moment: 1559696462003 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -37 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 75 EID: 0 SSID: 
+Count: 350 
+Moment: 1559696462018 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -36 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 75 EID: 0 SSID: 
+Count: 351 
+Moment: 1559696462074 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -35 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 76 EID: 0 SSID: 
+Count: 352 
+Moment: 1559696462088 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -36 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 76 EID: 0 SSID: 
+Count: 353 
+Moment: 1559696462105 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -74 Ch: 2 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 76 EID: 0 SSID: 
+Count: 354 
+Moment: 1559696462119 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -72 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 77 EID: 0 SSID: 
+Count: 355 
+Moment: 1559696462181 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -69 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 77 EID: 0 SSID: 
+Count: 356 
+Moment: 1559696474019 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -68 Ch: 2 Peer MAC: 74:29:af:a3:37:8f SEQ: 215 EID: 0 SSID: 
+Count: 357 
+Moment: 1559696477809 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -79 Ch: 6 Peer MAC: 74:29:af:a3:37:8f SEQ: 215 EID: 0 SSID: 
+Count: 358 
+Moment: 1559696482723 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -97 Ch: 11 Peer MAC: 94:39:e5:f2:04:21 SEQ: 142 EID: 0 SSID: SUPERNET_EAC 
+Count: 359 
+Moment: 1559696484976 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -95 Ch: 13 Peer MAC: 26:40:bb:10:c8:63 SEQ: 137 EID: 0 SSID: 
+Count: 360 
+Moment: 1559696501976 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -48 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 78 EID: 0 SSID: 
+Count: 361 
+Moment: 1559696501989 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -38 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 78 EID: 0 SSID: 
+Count: 362 
+Moment: 1559696502001 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -36 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 78 EID: 0 SSID: 
+Count: 363 
+Moment: 1559696502023 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -37 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 78 EID: 0 SSID: 
+Count: 364 
+Moment: 1559696502038 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -37 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 78 EID: 0 SSID: 
+Count: 365 
+Moment: 1559696502051 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -37 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 78 EID: 0 SSID: 
+Count: 366 
+Moment: 1559696502067 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -34 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 78 EID: 0 SSID: 
+Count: 367 
+RSSI: -34 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 78 EID: 0 SSID: 
+Count: 368 
+Moment: 1559696502080 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -33 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 78 EID: 0 SSID: 
+Count: 369 
+RSSI: -31 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 78 EID: 0 SSID: 
+Count: 370 
+RSSI: -32 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 79 EID: 0 SSID: 
+Count: 371 
+RSSI: -34 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 79 EID: 0 SSID: 
+Count: 372 
+Moment: 1559696502091 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -41 Ch: 3 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 79 EID: 0 SSID: 
+Count: 373 
+Moment: 1559696502105 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -41 Ch: 4 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 79 EID: 0 SSID: 
+Count: 374 
+Moment: 1559696502119 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -40 Ch: 4 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 79 EID: 0 SSID: 
+Count: 375 
+Moment: 1559696502132 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -74 Ch: 4 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 79 EID: 0 SSID: 
+Count: 376 
+Moment: 1559696502148 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -71 Ch: 4 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 79 EID: 0 SSID: 
+Count: 377 
+Moment: 1559696502160 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -87 Ch: 4 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 80 EID: 0 SSID: 
+Count: 378 
+Moment: 1559696510063 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -95 Ch: 12 Peer MAC: 38:80:df:00:5c:74 SEQ: 225 EID: 0 SSID: 
+Count: 379 
+Moment: 1559696510079 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -91 Ch: 12 Peer MAC: 38:80:df:00:5c:74 SEQ: 226 EID: 0 SSID: 
+Count: 380 
+Moment: 1559696534165 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -88 Ch: 10 Peer MAC: 98:39:8e:f5:e6:d3 SEQ: 59 EID: 0 SSID: darcelo1 
+Count: 381 
+Moment: 1559696534224 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -87 Ch: 10 Peer MAC: 98:39:8e:f5:e6:d3 SEQ: 60 EID: 0 SSID: bbg grupo adeg 
+Count: 382 
+RSSI: -88 Ch: 10 Peer MAC: 98:39:8e:f5:e6:d3 SEQ: 60 EID: 0 SSID: BBG_grupo asseg 
+Count: 383 
+Moment: 1559696534240 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -88 Ch: 10 Peer MAC: 98:39:8e:f5:e6:d3 SEQ: 60 EID: 0 SSID: BBG_grupo asseg 
+Count: 384 
+Moment: 1559696536074 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -94 Ch: 12 Peer MAC: 38:9a:f6:f8:39:17 SEQ: 120 EID: 0 SSID: 
+Count: 385 
+Moment: 1559696542322 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -34 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 81 EID: 0 SSID: 
+Count: 386 
+Moment: 1559696542343 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -33 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 81 EID: 0 SSID: 
+Count: 387 
+Moment: 1559696542356 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -33 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 81 EID: 0 SSID: 
+Count: 388 
+Moment: 1559696542373 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -29 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 81 EID: 0 SSID: 
+Count: 389 
+Moment: 1559696542385 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -30 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 82 EID: 0 SSID: 
+Count: 390 
+Moment: 1559696542397 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -29 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 82 EID: 0 SSID: 
+Count: 391 
+Moment: 1559696542412 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -30 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 82 EID: 0 SSID: 
+Count: 392 
+Moment: 1559696542425 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -29 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 82 EID: 0 SSID: 
+Count: 393 
+Moment: 1559696542436 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -29 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 82 EID: 0 SSID: 
+Count: 394 
+Moment: 1559696542450 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -40 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 82 EID: 0 SSID: 
+Count: 395 
+Moment: 1559696542471 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -40 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 82 EID: 0 SSID: 
+Count: 396 
+Moment: 1559696542486 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -39 Ch: 5 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 82 EID: 0 SSID: 
+Count: 397 
+Moment: 1559696563316 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -80 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 78 EID: 0 SSID: 
+Count: 398 
+Moment: 1559696563334 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -69 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 79 EID: 0 SSID: huehue 
+Count: 399 
+Moment: 1559696563352 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -31 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 79 EID: 0 SSID: huehue 
+Count: 400 
+RSSI: -30 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 79 EID: 0 SSID: 
+Count: 401 
+RSSI: -32 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 79 EID: 0 SSID: huehue 
+Count: 402 
+RSSI: -30 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 80 EID: 0 SSID: 
+Count: 403 
+RSSI: -30 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 80 EID: 0 SSID: huehue 
+Count: 404 
+RSSI: -31 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 80 EID: 0 SSID: 
+Count: 405 
+RSSI: -30 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 80 EID: 0 SSID: huehue 
+Count: 406 
+RSSI: -29 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 80 EID: 0 SSID: 
+Count: 407 
+RSSI: -31 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 80 EID: 0 SSID: huehue 
+Count: 408 
+RSSI: -31 Ch: 13 Peer MAC: e4:90:7e:53:7e:a5 SEQ: 80 EID: 0 SSID: 
+Count: 409 
+Moment: 1559696567618 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -76 Ch: 4 Peer MAC: 26:29:af:a3:37:8f SEQ: 117 EID: 0 SSID: 
+Count: 410 
+Moment: 1559696578990 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -68 Ch: 3 Peer MAC: 5c:af:06:15:aa:92 SEQ: 24 EID: 0 SSID: 
+Count: 411 
+RSSI: -68 Ch: 3 Peer MAC: 5c:af:06:15:aa:92 SEQ: 24 EID: 0 SSID: 
+Count: 412 
+Moment: 1559696582464 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -34 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 84 EID: 0 SSID: 
+Count: 413 
+Moment: 1559696582483 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -69 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 84 EID: 0 SSID: 
+Count: 414 
+Moment: 1559696582495 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -27 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 84 EID: 0 SSID: 
+Count: 415 
+Moment: 1559696582509 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -21 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 85 EID: 0 SSID: 
+Count: 416 
+Moment: 1559696582526 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 85 EID: 0 SSID: 
+Count: 417 
+Moment: 1559696582541 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -22 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 85 EID: 0 SSID: 
+Count: 418 
+Moment: 1559696582563 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -26 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 85 EID: 0 SSID: 
+Count: 419 
+Moment: 1559696582584 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -23 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 85 EID: 0 SSID: 
+Count: 420 
+Moment: 1559696582604 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -24 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 85 EID: 0 SSID: 
+Count: 421 
+Moment: 1559696582618 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -34 Ch: 6 Peer MAC: 30:4b:07:ad:2b:f2 SEQ: 85 EID: 0 SSID: 
+Count: 422 
+Moment: 1559696587392 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -73 Ch: 11 Peer MAC: 26:29:af:a3:37:8f SEQ: 117 EID: 0 SSID: 
+Count: 423 
+Moment: 1559696589325 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -79 Ch: 13 Peer MAC: 84:c7:ea:e2:90:1c SEQ: 214 EID: 0 SSID: 
+Count: 424 
+Moment: 1559696589358 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -78 Ch: 13 Peer MAC: 84:c7:ea:e2:90:1c SEQ: 214 EID: 0 SSID: 
+Count: 425 
+RSSI: -78 Ch: 13 Peer MAC: 84:c7:ea:e2:90:1c SEQ: 214 EID: 0 SSID: 
+Count: 426 
+Moment: 1559696590759 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -58 Ch: 2 Peer MAC: 26:29:af:a3:37:8f SEQ: 117 EID: 0 SSID: 
+Count: 427 
+Moment: 1559696590778 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -56 Ch: 2 Peer MAC: 26:29:af:a3:37:8f SEQ: 117 EID: 0 SSID: 
+Count: 428 
+Moment: 1559696592600 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -61 Ch: 3 Peer MAC: 26:29:af:a3:37:8f SEQ: 117 EID: 0 SSID: 
+Count: 429 
+Moment: 1559696592618 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -60 Ch: 3 Peer MAC: 26:29:af:a3:37:8f SEQ: 117 EID: 0 SSID: 
+Count: 430 
+Moment: 1559696593053 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -60 Ch: 4 Peer MAC: 26:29:af:a3:37:8f SEQ: 118 EID: 0 SSID: 
+Count: 431 
+Moment: 1559696593071 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -60 Ch: 4 Peer MAC: 26:29:af:a3:37:8f SEQ: 118 EID: 0 SSID: 
+Count: 432 
+Moment: 1559696598035 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -65 Ch: 9 Peer MAC: 26:29:af:a3:37:8f SEQ: 118 EID: 0 SSID: 
+Count: 433 
+Moment: 1559696606321 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -78 Ch: 4 Peer MAC: 48:60:5f:10:cd:69 SEQ: 254 EID: 0 SSID: 
+Count: 434 
+RSSI: -80 Ch: 4 Peer MAC: 48:60:5f:10:cd:69 SEQ: 254 EID: 0 SSID: 
+Count: 435 
+Moment: 1559696606450 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -80 Ch: 4 Peer MAC: 48:60:5f:10:cd:69 SEQ: 254 EID: 0 SSID: 
+Count: 436 
+RSSI: -81 Ch: 4 Peer MAC: 48:60:5f:10:cd:69 SEQ: 254 EID: 0 SSID: 
+Count: 437 
+Moment: 1559696606478 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -75 Ch: 4 Peer MAC: 48:60:5f:10:cd:69 SEQ: 254 EID: 0 SSID: 
+Count: 438 
+RSSI: -75 Ch: 4 Peer MAC: 48:60:5f:10:cd:69 SEQ: 254 EID: 0 SSID: 
+Count: 439 
+Moment: 1559696607345 # {"mocked":false,"timestamp":1559696012693,"coords":{"speed":0,"heading":0,"accuracy":21.29599952697754,"altitude":38.19999694824219,"longitude":-35.0023032,"latitude":-8.0251992}} # Wifi: RSSI: -84 Ch: 5 Peer MAC: 2e:c9:d3:38:c7:11 SEQ: 167 EID: 0 SSID: 
+Count: 440 
