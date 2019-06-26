@@ -11,7 +11,7 @@ def tratarMoment(moment):
     moment = datetime.datetime.fromtimestamp(moment)
     return moment
 
-arq = open('dados.txt','r')
+arq = open('probes.txt','r')
 
 dados = arq.readlines()
 
@@ -37,6 +37,8 @@ for num,linha in enumerate(dados,start=0):
     linha[2] = linha[2].replace('Peer MAC:','#')
     linha[2] = linha[2].replace('SEQ:','#')
     linha[2] = linha[2].replace(" ","").split('#')
+    if num % 2 == 0 and len(linha[2]) <2:
+        continue
     rssi = linha[2][1]
     mac = linha[2][3]
     #print("rsi: "+ rssi + " mac: " + mac)
@@ -53,30 +55,31 @@ for num,linha in enumerate(dados,start=0):
 
                     passageiro.setLastTime(tratarMoment(linha[0]))
                     #BUS IS MOVING - QUAL DEVE SER A VELOCIDADE PARA UTILIZAR PARA  O ONIBUS SE MOVENDO? APENAS != 0? ARTIGO NÃO ESPECIFÍCA
-                    if js['coords']['speed'] > 0:
+                    #if js['coords']['speed'] > 0:
+                    if js['coords']['latitude'] != passageiro.getLastLatitude or js['coords']['longitude'] != passageiro.getLastLongitude:
+
+                        #print('ola')
                         passageiro.setLastLatitude(js['coords']['latitude'])
                         passageiro.setLastLongitude(js['coords']['longitude'])
-                        passageiro.setSpeed(js['coords']['speed'])
+                        #passageiro.setNegativo(js['coords']['speed'])
 
-                        if rssi >= -90:
+                        if float(rssi) >= -90:
 
-                            # decaimento gradual do sinal RSSI - OBSERVAÇÃO, QUAL DEVE SER O PARÂMETRO DE DECAIMENTO?? ARTÍGO NÃO ESPECIFÍCA
-                            #UTILIZEI DECAIMENTO DE 37 NO SINAL - PERGUNTAR A GLAUCO
+                            if  float(rssi) < float(passageiro.getLastRssi()):
+                                if float(passageiro.getLastRssi()) < float(passageiro.getRssi()):
+                                    passageiro.setNegativo(passageiro.getNegativo() + 1)
 
-                            if (rssi + 37) < passageiro.getRssi():
-                                #nao é um passageiro
+                                passageiro.setRssi(passageiro.getLastRssi())
+                                passageiro.setLastRssi(float(rssi))
                                 break
                             else:
-                                passageiro.setSituacao(True) 
+                                passageiro.setPositivo(passageiro.getPositivo() + 1) 
+
+                            passageiro.setRssi(passageiro.getLastRssi())
+                            passageiro.setLastRssi(float(rssi))
                     
                     else:
-                        #provavel pedestre
-                        # Setando o objeto para tentar melhorar  a precisão do algorítmo
-                        if passageiro.getSpeed() == -1:
-                            passageiro.setSituacao(False)
-                        else:    
-                            passageiro.setSpeed(-1)
-                        break
+                        passageiro.setNegativo(passageiro.getNegativo() + 1)
                     break
 
 
@@ -88,6 +91,7 @@ for num,linha in enumerate(dados,start=0):
             novoPassageiro = Passageiro()
             novoPassageiro.setMac(mac)
             novoPassageiro.setRssi(rssi)
+            novoPassageiro.setLastRssi(rssi)
             novoPassageiro.setLastTime(tratarMoment(linha[0]))
             novoPassageiro.setCurrentTime(tratarMoment(linha[0]))
             novoPassageiro.setFirstTime(tratarMoment(linha[0]))
@@ -95,13 +99,15 @@ for num,linha in enumerate(dados,start=0):
             novoPassageiro.setFirstLongitude(js['coords']['longitude'])
             novoPassageiro.setLastLatitude(js['coords']['latitude'])
             novoPassageiro.setLastLongitude(js['coords']['longitude'])
-            novoPassageiro.setSpeed(js['coords']['speed'])
+            novoPassageiro.setNegativo(0)
+            novoPassageiro.setPositivo(0)
             passageiros.append(novoPassageiro)
     
     else:
         novoPassageiro = Passageiro()
         novoPassageiro.setMac(mac)
         novoPassageiro.setRssi(rssi)
+        novoPassageiro.setLastRssi(rssi)
         novoPassageiro.setLastTime(tratarMoment(linha[0]))
         novoPassageiro.setCurrentTime(tratarMoment(linha[0]))
         novoPassageiro.setFirstTime(tratarMoment(linha[0]))
@@ -109,22 +115,26 @@ for num,linha in enumerate(dados,start=0):
         novoPassageiro.setFirstLongitude(js['coords']['longitude'])
         novoPassageiro.setLastLatitude(js['coords']['latitude'])
         novoPassageiro.setLastLongitude(js['coords']['longitude'])
-        novoPassageiro.setSpeed(js['coords']['speed'])
+        novoPassageiro.setNegativo(0)
+        novoPassageiro.setPositivo(0)
         passageiros.append(novoPassageiro)
 
 
 #
 
-
+cont = 0;
 for k in passageiros:
 
-    j = k.getFirstTime() - k.getLastTime()
+    j = k.getLastTime() - k.getFirstTime()
     j = j.total_seconds() / 60
     
     #tempo total presente no ônibus em minutos
-    print( j )
 
-    print('-------------------')
+    if k.getPositivo() > 2:
+        cont +=1
+        print("passanger "+ str(cont)+": "+ str(j))
+
+print(cont)
+
 
 #Total de probes diferentes analizados  , não de passageiros . tempo total presente no ônibus pequenos devem ser retirados
-print(len(passageiros))

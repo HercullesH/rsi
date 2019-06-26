@@ -9,8 +9,9 @@ class Passageiro:
         self.lastLongitude = 0
         self.rssi = 0
         self.firsTime = 0
-        self.speed = 0
-        self.situacao = False
+        self.negativo = 0
+        self.positivo = False
+        self.lastRssi = 0
      
     def setMac(self, mac):
         self.mac = mac
@@ -18,6 +19,9 @@ class Passageiro:
     def setFirstTime(self, firsTime):
         self.firsTime = firsTime
     
+    def setLastRssi(self, lastRssi):
+        self.lastRssi = lastRssi
+
     def setRssi(self, rssi):
         self.rssi = rssi
      
@@ -39,11 +43,11 @@ class Passageiro:
     def setLastLatitude(self, latitude):
         self.lastLatitude = latitude
     
-    def setSpeed(self,speed):
-        self.speed = speed
+    def setNegativo(self,negativo):
+        self.negativo = negativo
     
-    def setSituacao(self,situacao):
-        self.situacao = situacao
+    def setPositivo(self,positivo):
+        self.positivo = positivo
 
 
 
@@ -51,11 +55,14 @@ class Passageiro:
     def getMac(self):
         return self.mac
 
-    def getSpeed(self):
-        return self.speed
+    def getNegativo(self):
+        return self.negativo
 
     def getRssi(self):
         return self.rssi
+    
+    def getLastRssi(self):
+        return self.lastRssi
          
     def getCurrentTime(self):
         return self.currentTime
@@ -78,8 +85,8 @@ class Passageiro:
     def getLastLongitude(self):
         return self.lastLongitude
     
-    def getSituacao(self):
-        return self.situacao
+    def getPositivo(self):
+        return self.positivo
 
 
 
